@@ -1,0 +1,17 @@
+.player{
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.player p{
+    margin: 0;
+    font-size: 12px;
+    color: gray;
+}
+.player h6{
+    color: gray;
+}
+.player .salary{
+    color: salmon;
+    font-size: 16px;
+    font-weight: 600;
+}

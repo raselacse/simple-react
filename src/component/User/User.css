@@ -1,0 +1,9 @@
+.user{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+.user img{
+    width: 60%;
+    margin: auto auto;
+}
